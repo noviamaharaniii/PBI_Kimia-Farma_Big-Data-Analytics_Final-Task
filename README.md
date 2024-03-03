@@ -117,11 +117,12 @@ SELECT
 CREATE TABLE Kimia_Farma.kf_rating AS
 SELECT 
   branch_id,
+  provinsi,
   branch_category,
   rating_cabang,
   ROUND(avg(rating_transaksi)) AS avg_rating_transaksi
 FROM Kimia_Farma.kf_sales
-  GROUP BY branch_id, branch_category, rating_cabang
+  GROUP BY branch_id, provinsi, branch_category, rating_cabang
   ORDER BY avg_rating_transaksi ASC ;
  ```
 
