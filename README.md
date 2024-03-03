@@ -1,4 +1,4 @@
-# **Kimia Farma Business Performance 2020 - 2023 Dashboard Analysis**
+# **Kimia Farma Business Performance 2020 - 2023 Analysis Dashboard**
 Tools :
 💻 Google BigQuery
 📝 SQL Query
@@ -129,5 +129,14 @@ FROM Kimia_Farma.kf_sales
 </details>
 
 ## **02: Dashboard Analysis Design**
-After the data preparation, I designed the dashboard for business performance analysis by using Google Looker Studio. Here is the link for the interactive dashboard :
+After the data preparation, I designed the dashboard for business performance analysis by using Google Looker Studio. Here is the link for the interactive dashboard : [Interactive Dashboard](https://lookerstudio.google.com/s/rCDlWcqjypc).
 
+![image](https://github.com/noviamaharaniii/PBI_Kimia-Farma_Big-Data-Analytics_Final-Task/assets/160397160/cac369de-54af-4bd0-9809-9b3d533954c7)
+
+Based on the analysis that was carried out by using the dashboard, these are the insights that I've concluded:
+1. Kimia Farma profit : 2020 to 2021 = 99% , 2021 to 2022 = 50% , 2022 to 2023 = 33%
+2. The most popular products from Kimia Farma are
+3. The branch that have the best facilities are Nusa Tenggara Barat based on the ranking of the rating
+
+From those conclusion, here are a few suggestion to increase the business performance :
+1. 
