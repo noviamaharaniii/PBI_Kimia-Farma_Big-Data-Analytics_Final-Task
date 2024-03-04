@@ -136,11 +136,11 @@ After the data preparation, I designed the dashboard for business performance an
 
 **Based on the analysis that was carried out by using the dashboard, these are the insights that I've concluded:**
 1. Kimia Farma experienced an increment in their yearly profit, here are the percentages for the increase :
-   2020 to 2021 = 99% 
-   2021 to 2022 = 50%  
-   2022 to 2023 = 33%
-2. The best branch from Kimia Farma is located in Jawa Barat, this conclusion is based on that branch having the highest nett sales and being in the top 5 of the highest branch rating.
-3. The most popular products from Kimia Farma are Psycholeptics drugs, Hypnotics, and sedative drugs which are mostly used for calming effects. One of the reasons may be because of the phenomenon of the increasing mental health problems in Indonesia starting from 2020 until now. [Source](https://www.kompas.id/baca/humaniora/2023/05/03/krisis-kesehatan-mental-melonjak-di-kalangan-remaja).
+   - 2020 to 2021 = 99%
+   - 2021 to 2022 = 50%
+   - 2022 to 2023 = 33%
+3. The best branch from Kimia Farma is located in Jawa Barat, this conclusion is based on that branch having the highest nett sales and being in the top 5 of the highest branch rating.
+4. The most popular products from Kimia Farma are Psycholeptics drugs, Hypnotics, and sedative drugs which are mostly used for calming effects. One of the reasons may be because of the phenomenon of increasing mental health problems in Indonesia starting from 2020 until now. [Source](https://www.kompas.id/baca/humaniora/2023/05/03/krisis-kesehatan-mental-melonjak-di-kalangan-remaja).
 
 **From those conclusions, here are a few suggestions to increase the business performance:**
 1. Since the branches in Jawa Barat have a good record of sales and ratings, Kimia Farma should analyze the facilities and services in those branches to apply them to other branches as well. This might help other branches to be as good as the one in Jawa Barat which also can increase the overall performance of Kimia Farma. Apart from the facilities and services, the products that are needed in the area must also be taken into consideration because each region may have different needs so the promoted product will also be different.
