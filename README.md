@@ -1,4 +1,4 @@
-# **Kimia Farma Business Performance 2020 - 2023 Analysis Dashboard**
+# **Kimia Farma Business Performance Analysis Dashboard**
 Tools :
 |💻 Google BigQuery
 |📝 SQL Query
@@ -6,7 +6,7 @@ Tools :
 |📊 Google Looker Studio 
 
 ## **Project Description**
-Project-Based Internship is one of Rakamin Academy's programs that helps people increase their skills, portfolio, and work experience by joining a virtual internship with a wide variety choice of well-known companies. From this program, I joined the Big Data Analytics internship at Kimia Farma. Kimia Farma is the first pharmaceutical producer and distributor in Indonesia that was founded by the Dutch East Indies Government in 1817. As a Big Data Analytics Intern, my final task is to evaluate Kimia Farma's business performance from 2020 until 2023 by making an analysis dashboard for a more deeper understanding of data and its analysis.
+Project-Based Internship is one of Rakamin Academy's programs that supports self-development, skills, portfolio, and work experience by joining a virtual internship with a wide variety choice of well-known companies. From this program, I joined the Big Data Analytics internship at Kimia Farma. Kimia Farma is the first pharmaceutical producer and distributor in Indonesia that was founded by the Dutch East Indies Government in 1817. As a Big Data Analytics Intern, my final task is to evaluate Kimia Farma's business performance from 2020 until 2023 by making an analysis dashboard for a more deeper understanding of data and its analysis.
 
 ## **01: Data Preparation with Google BigQuery**
 Here are the steps that I've done to prepare the data and make data mart before designing the dashboard and making the analysis:
@@ -44,7 +44,7 @@ Here are the steps that I've done to prepare the data and make data mart before 
   - rating: penilaian konsumen terhadap cabang Kimia Farma
   
 2. Open Google BigQuery and make a new project called "Rakamin-KF-Analytics"
-3. Create a new datasets called "kimia_farma" and import the CSV datasets that were given into it.
+3. Create a new dataset called "kimia_farma" and import the CSV datasets that were given into it.
 4. Create the data marts by combining the necessary information from the CSV datasets.
 
 <details>
@@ -103,18 +103,15 @@ LEFT JOIN `Data_Kimia_Farma.kf_product` c
 
 </details>
 
-## **02: Dashboard Analysis Design**
-After the data preparation, I designed the dashboard for business performance analysis by using Google Looker Studio. Here is the link for the interactive dashboard : [Interactive Dashboard](https://lookerstudio.google.com/reporting/28231ad9-5f55-41d7-8aaa-e620059fc038).
+## **02: Dashboard Design**
+After the data preparation, I designed the dashboard for business performance analysis using Google Looker Studio. Here is the link for the interactive dashboard : [Interactive Dashboard](https://lookerstudio.google.com/reporting/28231ad9-5f55-41d7-8aaa-e620059fc038).
 
 ![image](https://github.com/noviamaharaniii/PBI_Kimia-Farma_Big-Data-Analytics_Final-Task/assets/160397160/41cf095d-477f-4e3f-92fe-7a9fd6e5e518)!
 
 
 **Based on the analysis that was carried out by using the dashboard, these are the insights that I've concluded:**
-1. Kimia Farma experienced an increment in their yearly profit, here are the percentages for the increase :
-   - 2020 to 2021 = 99%
-   - 2021 to 2022 = 50%
-   - 2022 to 2023 = 33%
-3. The best branch from Kimia Farma is located in Jawa Barat, this conclusion is based on that branch having the highest nett sales and being in the top 5 of the highest branch rating.
+1. Kimia Farma revenue had a low flu
+3. The best branch of Kimia Farma is located in Jawa Barat, this conclusion is based on that branch having the highest net sales and being in the top 5 of the highest branch rating.
 4. The most popular products from Kimia Farma are Psycholeptics drugs, Hypnotics, and sedative drugs which are mostly used for calming effects. One of the reasons may be because of the phenomenon of increasing mental health problems in Indonesia starting from 2020 until now. [Source](https://www.kompas.id/baca/humaniora/2023/05/03/krisis-kesehatan-mental-melonjak-di-kalangan-remaja).
 
 **From those conclusions, here are a few suggestions to increase the business performance:**
