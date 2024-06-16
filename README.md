@@ -1,17 +1,20 @@
 # **Kimia Farma Business Performance Analysis Dashboard**
 Tools :
-|💻 Google BigQuery
-|📝 SQL Query
 |📁 GitHub
+|📝 SQL Query
+|💻 Google BigQuery
 |📊 Google Looker Studio 
 
 ## **Project Description**
-Project-Based Internship is one of Rakamin Academy's programs that supports self-development, skills, portfolio, and work experience by joining a virtual internship with a wide variety choice of well-known companies. From this program, I joined the Big Data Analytics internship at Kimia Farma. Kimia Farma is the first pharmaceutical producer and distributor in Indonesia that was founded by the Dutch East Indies Government in 1817. As a Big Data Analytics Intern, my final task is to evaluate Kimia Farma's business performance from 2020 until 2023 by making an analysis dashboard for a more deeper understanding of data and its analysis.
+Project-Based Internship is one of Rakamin Academy's programs that supports self-development by elevating one's skills, portfolio, and work experience by providing a virtual internship at well-known companies. From this program, I had the opportunity to be a Big Data Analytics intern at Kimia Farma. Kimia Farma is Indonesia's first pharmaceutical producer and distributor, founded by the Dutch East Indies Government in 1817. 
+
+As a Big Data Analytics Intern, I evaluated Kimia Farma's business performance from 2020 until 2023 using an analysis dashboard. The analysis dashboard was designed using Google Looker Studio and based on the data mart created by processing the given datasets using Google Big Query.
+
 
 ## **01: Data Preparation with Google BigQuery**
-Here are the steps that I've done to prepare the data and make data mart before designing the dashboard and making the analysis:
-1. Download the CSV datasets that were given as analysis material.
+These are the data preparation stages that I completed to create the data mart before designing the analysis dashboard. 
 
+1. Download the CSV datasets that were given as analysis material.
 **kf_final_transaction.csv**
   - transaction_id: kode id transaksi
   - product_id : kode produk obat
@@ -45,7 +48,7 @@ Here are the steps that I've done to prepare the data and make data mart before 
   
 2. Open Google BigQuery and make a new project called "Rakamin-KF-Analytics"
 3. Create a new dataset called "kimia_farma" and import the CSV datasets that were given into it.
-4. Create the data marts by combining the necessary information from the CSV datasets.
+4. Create the data mart by combining the necessary information from the CSV datasets.
 
 <details>
 
@@ -110,7 +113,7 @@ After the data preparation, I designed the dashboard for business performance an
 
 
 **Based on the analysis that was carried out by using the dashboard, these are the insights that I've concluded:**
-1. Kimia Farma revenue had a low flu
+1. Kimia Farma revenue 
 3. The best branch of Kimia Farma is located in Jawa Barat, this conclusion is based on that branch having the highest net sales and being in the top 5 of the highest branch rating.
 4. The most popular products from Kimia Farma are Psycholeptics drugs, Hypnotics, and sedative drugs which are mostly used for calming effects. One of the reasons may be because of the phenomenon of increasing mental health problems in Indonesia starting from 2020 until now. [Source](https://www.kompas.id/baca/humaniora/2023/05/03/krisis-kesehatan-mental-melonjak-di-kalangan-remaja).
 
