@@ -109,7 +109,7 @@ LEFT JOIN `Data_Kimia_Farma.kf_product` c
 ## **02: Dashboard Design**
 After the data preparation, I designed the dashboard for business performance analysis using Google Looker Studio. Here is the link for the interactive dashboard : [Interactive Dashboard](https://lookerstudio.google.com/reporting/28231ad9-5f55-41d7-8aaa-e620059fc038).
 
-![image](https://github.com/noviamaharaniii/PBI_Kimia-Farma_Big-Data-Analytics_Final-Task/assets/160397160/41cf095d-477f-4e3f-92fe-7a9fd6e5e518)!
+[image](https://github.com/noviamaharaniii/PBI_Kimia-Farma_Big-Data-Analytics_Final-Task/assets/160397160/41cf095d-477f-4e3f-92fe-7a9fd6e5e518)
 
 
 **Based on the analysis that was carried out by using the dashboard, these are the key insights that I've concluded:**
